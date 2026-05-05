@@ -1,4 +1,11 @@
-## Hey there 👋
+```
+          __              .__        
+  _______/  |_  _______  _|__| ____  
+ /  ___/\   __\/ __ \  \/ /  |/ __ \ 
+ \___ \  |  | \  ___/\   /|  \  ___/ 
+/____  > |__|  \___  >\_/ |__|\___  >
+     \/            \/             \/ 
+```
 
 <!--
 **steviegalluscio/steviegalluscio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
